@@ -1,0 +1,15 @@
+
+User ID   User NAME   User FatherName   User Phone no    User Address   User Password
+
+  5566     kHAULA       azhar       03736537       Defence    fjneiru8949
+
+  666     Sulaimani        Khan          095429288        Defence     r44rj9i9rw
+ 
+
+  678     khaula        Azhar          09321356        area     s4ew4ser3
+
+  5678(u)    khaula      Azhar      02134456      Gulshan     rok43o4fmw4
+
+  908     khalid        Azhar          03146321        Defence     j398jd98233
+
+  5678(u)    khalid      Azhar      01234567      Defence     dw223er2

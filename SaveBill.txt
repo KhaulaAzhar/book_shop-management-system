@@ -1,0 +1,10 @@
+ Client Name   Quant of Books   BOOK PRICE    GrandTotal
+     rafia           10           609       Rs 6090
+
+      khaula       10       789      Rs 7890
+
+      khaula       70       500      Rs 35000
+
+      khaula       10       456      Rs 4560
+
+      khaula       10       500      Rs 5000

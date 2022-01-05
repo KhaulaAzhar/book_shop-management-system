@@ -1,0 +1,6 @@
+BOOK_ID	BOOK_NAME	BOOK_AUTHOR	BOOK_CATEGORY	BOOK_PRICE
+234	data_structures	Micheal_Main	Programming	456
+455	python	Aniqa	Programming	500
+33463   java    john  Programming    790
+78615   banana physics    willian  Physics    79097201   c++    john  C++    90062308   java    william  Data Structures    70062308   java    william  Data Structures    890
+  14998(u)     java       willaim       Physics       906
